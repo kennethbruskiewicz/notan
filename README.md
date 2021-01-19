@@ -3,7 +3,7 @@ Linux OS Configuration. Not Any Distractions. Not Any Bullshit. Just what you ne
 
 ## Features
 
-* Separate userspaces for Work, Study and Play
+* Separate userspaces and environments for Work, Study and Play (autoenv + login to restrict folder views)
 * Doom Emacs configured for notetaking and lecture media, and made discoverable levels. Uses `argument-mode` and `dumlat`.
 * Torrent and Media Downloader for courserware
 * Spaced Repetition for the command line and on desktop
