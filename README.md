@@ -26,6 +26,7 @@ Linux OS Configuration. In Guix and Nix.
 * Maintain privacy-in-depth with aliases and identity management online
 * Decentralized-by-default: supports Matrix and Urbit
 * Streaming focus music
+* Automatic archiving while browsing with ArchiveBox or IPFS
 
 ## Why "Notan"?
 
