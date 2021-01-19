@@ -13,7 +13,7 @@ Linux OS Configuration. In Guix and Nix.
 ## Features
 
 * Separate userspaces and environments for Work, Study and Play (autoenv + login to restrict folder views)
-* Doom Emacs configured for notetaking and lecture media, and made discoverable levels. Uses `argument-mode` and `dumlat`.
+* Doom Emacs configured for notetaking and lecture media, and made discoverable levels. Uses `dumlat`.
 * Torrent and Media Downloader for courserware
 * Spaced Repetition for the command line and on desktop
 * Discoverable commands in shell with `navi`, `fish`-like features, and more
