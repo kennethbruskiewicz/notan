@@ -1,8 +1,8 @@
 # notan
 
-Linux OS Configuration. In Guix and Nix.
+Not Any Distractions. Not Any Bullshit. And not any Privacy? Not Any Problem. Just what you need to work and play in private.
 
-Not Any Distractions. Not Any Bullshit. Just what you need to work.
+Linux OS Configuration. In Guix and Nix.
 
 ## Features
 
