@@ -4,6 +4,12 @@ Not Any Distractions. Not Any Bullshit. Not any Privacy? Not Any Problem. Just w
 
 Linux OS Configuration. In Guix and Nix.
 
+## Goals
+
+* Stop your data and attention from being sapped by mundane bullshit, ads, and distraction.
+* Focus on the essentials for working sharply and learning well, in a systematic fashion.
+* Make personal computing personal again. Take back the magic.
+
 ## Features
 
 * Separate userspaces and environments for Work, Study and Play (autoenv + login to restrict folder views)
@@ -19,6 +25,7 @@ Linux OS Configuration. In Guix and Nix.
 * Cripple your browser – use private alternatives
 * Maintain privacy-in-depth with aliases and identity management online
 * Decentralized-by-default: supports Matrix and Urbit
+* Streaming focus music
 
 ## Why "Notan"?
 
