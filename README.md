@@ -32,4 +32,4 @@ Linux OS Configuration. In Guix and Nix.
 
 ## Why "Notan"?
 
-In visual art, "Nōtan" (濃淡) [is the practice of composing with light and dark shapes](https://en.wikipedia.org/wiki/Notan) to bring different parts of a composition into relief. Notan lays the foundation of compositions – without Notan, their structure becomes muddled. Working with Notan alone produces minimalist compositions.
+In visual art, "Nōtan" (濃淡) [is the practice of composing with light and dark shapes](https://en.wikipedia.org/wiki/Notan) to bring different parts of a composition into relief. Notan lays the foundation of compositions – without Notan, their structure is muddled. Working with Notan alone produces minimalist compositions.
