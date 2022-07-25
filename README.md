@@ -28,6 +28,8 @@ Linux OS Configuration. In Guix and Nix.
 * Maintain privacy-in-depth with aliases and identity management online
 * Decentralized-by-default: supports Matrix and Urbit
 * Streaming focus music
+* Keyboard-only navigation and input
+* Display manager with no desktop – no you don't need more tabs. No you don't need a latent environment of addictive stimulus triggering icons.
 * Automatic archiving while browsing with ArchiveBox or IPFS
 
 ## Why "Notan"?
